@@ -1,1 +1,1 @@
-# Goldiam-ICO-Contracts
+# Goldiam-ICO-Smart-Contracts
